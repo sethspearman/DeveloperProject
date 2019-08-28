@@ -1,7 +1,7 @@
 ﻿using Domain.Entities;
 using Interfaces;
 
-namespace Libraries
+namespace SchoolTests
 {
     public class FakeSchoolRepository:ISchoolRepository
     {
